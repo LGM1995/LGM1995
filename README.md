@@ -1,22 +1,59 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✨%20Become%20a%20developer%20for%20people%20✨&fontSize=50&animation=twinkling)
 
+<div align=center>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flgm1995%2Fhit-counter&count_bg=%2379C83D&title_bg=%234B7987&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+![LGM1995's github stats](https://github-readme-stats.vercel.app/api?username=lgm1995&show_icons=true)
+
+</div>
+
+<div align=center>
+
+```
 안녕하십니까
 
 사람을 위한 개발자가 되기를 희망하는 이건목입니다.
 
-제 깃에 방문해주셔서 감사합니다.
+제 Git에 방문해주셔서 감사합니다.
+```
 
-<!--
-🌱 Learnning Stack 🌱
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=black">
+</div>
+<br>
+<br>
 
 
-📫 Address 📫
--->
+<div align=center>
+<h1>🌱 Learnning Stack 🌱</h1>
 
+
+<div align=center>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+</div>
+<div align=center>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+<div align=center>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+<img src="https://img.shields.io/badge/postgresql-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+</div>
+<br>
+<br>
+
+
+<div align=center>
+<h1>📫 Address 📫</h1>
+<a href="https://github.com/LGM1995" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/gunmok.l" target="_blank"><img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:rjsahr5045@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gamil-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 <!--
 **LGM1995/LGM1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
