@@ -66,7 +66,7 @@
 # ⚡ 개인 프로젝트
 * Q-Note 단어학습 프로그램
   - <a href="http://seya.synology.me:28000/login" target="_blank">바로가기</a>
-  - <a href="https://github.com/LGM1995/Q-Note-Personal-Project" target="_blank">git</a>
+  - <a href="https://github.com/LGM1995/Q-Note-Personal-Project/blob/main/README.md" target="_blank">git</a>
 
 # 💬 팀 프로젝트
 * 헬창력 MBTI 테스트(SsolSsol)
