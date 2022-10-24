@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/synology-b5b5b6?style=for-the-badge&logo=synology&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
 </div>
+</div>
 <br>
 <br>
 
@@ -62,17 +63,15 @@
 <br>
 <br>
 
+# ⚡ 개인 프로젝트
+* Q-Note 단어학습 프로그램
+  - <a href="http://seya.synology.me:28000/login" target="_blank">바로가기</a>
+  - <a href="https://github.com/LGM1995/Q-Note-Personal-Project" target="_blank">git</a>
 
-<div align=center>
-<h1>⚡ 진행중<h1>
-<a href="http://seya.synology.me:29999" target="_black"><p>헬창력 MBTI 테스트(팀 프로젝트)<p></a>
-</div>
-
-
-<div align=center>
-<h1>✨ 완료<h1>
-<a href="http://seya.synology.me:28000/login" target="_black"><p>Q-Note 단어학습(개인 프로젝트)<p></a>
-</div>
+# 💬 팀 프로젝트
+* 헬창력 MBTI 테스트(SsolSsol)
+  - <a href="http://seya.synology.me:29999" target="_blank">바로가기</a>
+  - git
 
 <!--
 **LGM1995/LGM1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
