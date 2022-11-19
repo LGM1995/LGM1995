@@ -31,17 +31,20 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">  
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 <img src="https://img.shields.io/badge/postgresql-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 </div>
 <div align=center>
@@ -64,6 +67,10 @@
 <br>
 
 # ⚡ 개인 프로젝트
+* CreamWallet 가계부 프로그램
+  - <a href="http://gunmok.i234.me:23001/login" target="_blank">바로가기</a>
+  - <a href="https://github.com/LGM1995/creamwallet/blob/main/README.md" target="_blank">git</a>
+
 * Q-Note 단어학습 프로그램
   - <a href="http://gunmok.i234.me:28000/login" target="_blank">바로가기</a>
   - <a href="https://github.com/LGM1995/Q-Note-Personal-Project/blob/main/README.md" target="_blank">git</a>
