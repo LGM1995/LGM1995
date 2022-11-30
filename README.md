@@ -59,7 +59,7 @@
 <div align=center>
 <h1>📫 Address 📫</h1>
 <a href="https://github.com/LGM1995" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://lgm1995.github.io/" target="_blank"><img src="https://img.shields.io/badge/github%20page-222222?style=for-the-badge&logo=github%20page&logoColor=white"/></a>
+<a href="https://lgm1995.github.io/" target="_blank"><img src="https://img.shields.io/badge/github%2Bpage-222222?style=for-the-badge&logo=github%20page&logoColor=white"/></a>
 <a href="https://www.instagram.com/gunmok.l" target="_blank"><img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:rjsahr5045@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
