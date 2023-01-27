@@ -69,16 +69,16 @@
 
 # ⚡ 개인 프로젝트
 * CreamWallet 가계부 프로그램
-  - <a href="http://gunmok.i234.me:23001/login" target="_blank">바로가기</a>
+  - <a href="http://seya.i234.me:23001/login" target="_blank">바로가기</a>
   - <a href="https://github.com/LGM1995/creamwallet/blob/main/README.md" target="_blank">git</a>
 
 * Q-Note 단어학습 프로그램
-  - <a href="http://gunmok.i234.me:28000/login" target="_blank">바로가기</a>
+  - <a href="http://seya.i234.me:28000/login" target="_blank">바로가기</a>
   - <a href="https://github.com/LGM1995/Q-Note-Personal-Project/blob/main/README.md" target="_blank">git</a>
 
 # 💬 팀 프로젝트
 * 헬창력 MBTI 테스트(SsolSsol)
-  - <a href="http://gunmok.i234.me:29999" target="_blank">바로가기</a>
+  - <a href="http://seya.i234.me:29999" target="_blank">바로가기</a>
   - git
 
 # 🌱 비트캠프(교육센터) 프로젝트
